@@ -1,7 +1,9 @@
 
 #include <stdio.h>
+#include <stdlib.h>
 
 int main() {
+    system("chcp 65001");
     printf("=== 简单C语言测试程序 ===\n\n");
     
     // 测试1：输出和变量
